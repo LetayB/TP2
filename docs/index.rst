@@ -6,6 +6,7 @@ Animaux:
 - Chat
 - Chien
 - Lapin
+- Etudiant
 
 ======
 
